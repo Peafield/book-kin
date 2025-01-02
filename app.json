@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "668d426b-48b9-4c11-b1d9-2145357b4e9d"
+      }
+    },
+    "owner": "peafield"
   }
 }
